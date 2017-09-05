@@ -1,0 +1,30 @@
+{
+  "name": "tuts",
+  "version": "1.0.0",
+  "description": "Mean Stack with Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvnhein/Mean-Stack-angular2.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "Kevin Hein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kvnhein/Mean-Stack-angular2/issues"
+  },
+  "homepage": "https://github.com/kvnhein/Mean-Stack-angular2#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.10"
+  }
+}
